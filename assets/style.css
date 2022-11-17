@@ -1,0 +1,83 @@
+/*   _____         _____  _____    
+  / ____|  /\   |  __ \|  __ \ _ 
+ | (___   /  \  | |__) | |__) (_)
+  \___ \ / /\ \ |  _  /|  ___/   
+  ____) / ____ \| | \ \| |     _ 
+ |_____/_/    \_\_|  \_\_|    ( )
+                              |/
+ ♡ Thanks to Daniel for help ♡  -danielscreed - 🐙 @danielscreed
+
+ */
+ @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Ethiopic&display=swap');
+body {
+
+    overflow: hidden; 
+    margin: 10px;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+    font-family: "Noto Sans Ethiopic";
+}
+
+#content {
+    width: -webkit-fill-available;
+    display: flex;
+    height: 100vh;
+    margin: auto;
+}
+
+
+  a {
+    color: #7D9D8E;
+    text-decoration: none;
+    font-weight: bolder;
+    }
+
+.box { 
+
+    border-radius: 7px;
+    border-style: solid;
+    border-width: 2px;  
+    border: 3px solid #7D9D8E;
+    background-color: #ffc3d51c;
+    width: 380px;
+    padding: 23px;
+    text-align: center;
+    margin: auto;
+    color: #7D9D8E;
+}
+
+/* [SOCIALS] */
+
+.box h1 {
+    justify-content: center;
+    font-size: 33px;
+
+    margin: auto;
+}
+
+.box h5 {
+    justify-content: center;
+    font-weight: 300;
+    font-size: large;
+}
+
+.box p {
+    margin: auto;
+}
+
+
+a:hover {
+    color: white;
+    text-decoration: underline;
+    font-weight: bold;
+    }
+
+    img {
+        border-radius: 7px;
+        margin: 10px;
+        width: 150px;
+        float: left;
+    }
+
+
